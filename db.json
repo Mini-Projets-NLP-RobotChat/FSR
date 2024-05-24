@@ -1,4 +1,5 @@
-"naissances":[
+{
+  "naissances":[
   {
     "lot_ID": "<integer>",
     "lot_NbrActes": "<integer>",
@@ -112,3 +113,4 @@
     ]
   }
 ]
+}
