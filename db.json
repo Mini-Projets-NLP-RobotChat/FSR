@@ -1,14 +1,114 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "Mini-Projets-NLP-RobotChat"
+[
+  {
+    "lot_ID": "<integer>",
+    "lot_NbrActes": "<integer>",
+    "lot_NbrRestant": "<integer>",
+    "id_transaction": "<integer>",
+    "lot_Naissance": [
+      {
+        "idcs": "<string>",
+        "naissance_ID": "<integer>",
+        "numActe": "<string>",
+        "nom": "<string>",
+        "prenom": "<string>",
+        "nomFr": "<string>",
+        "prenomFr": "<string>",
+        "dateNaissance": "<string>",
+        "sexe": "<string>",
+        "nationalite": "<string>",
+        "CNIE_CS_Pere": "<string>",
+        "nomPere": "<string>",
+        "prenomPere": "<string>",
+        "nomPereFr": "<string>",
+        "prenomPereFr": "<string>",
+        "typeDocumentPere": "<string>",
+        "CNIE_CS_Mere": "<string>",
+        "nomMere": "<string>",
+        "prenomMere": "<string>",
+        "nomMereFr": "<string>",
+        "prenomMereFr": "<string>",
+        "typeDocumentMere": "<string>"
+      },
+      {
+        "idcs": "<string>",
+        "naissance_ID": "<integer>",
+        "numActe": "<string>",
+        "nom": "<string>",
+        "prenom": "<string>",
+        "nomFr": "<string>",
+        "prenomFr": "<string>",
+        "dateNaissance": "<string>",
+        "sexe": "<string>",
+        "nationalite": "<string>",
+        "CNIE_CS_Pere": "<string>",
+        "nomPere": "<string>",
+        "prenomPere": "<string>",
+        "nomPereFr": "<string>",
+        "prenomPereFr": "<string>",
+        "typeDocumentPere": "<string>",
+        "CNIE_CS_Mere": "<string>",
+        "nomMere": "<string>",
+        "prenomMere": "<string>",
+        "nomMereFr": "<string>",
+        "prenomMereFr": "<string>",
+        "typeDocumentMere": "<string>"
+      }
+    ]
+  },
+  {
+    "lot_ID": "<integer>",
+    "lot_NbrActes": "<integer>",
+    "lot_NbrRestant": "<integer>",
+    "id_transaction": "<integer>",
+    "lot_Naissance": [
+      {
+        "idcs": "<string>",
+        "naissance_ID": "<integer>",
+        "numActe": "<string>",
+        "nom": "<string>",
+        "prenom": "<string>",
+        "nomFr": "<string>",
+        "prenomFr": "<string>",
+        "dateNaissance": "<string>",
+        "sexe": "<string>",
+        "nationalite": "<string>",
+        "CNIE_CS_Pere": "<string>",
+        "nomPere": "<string>",
+        "prenomPere": "<string>",
+        "nomPereFr": "<string>",
+        "prenomPereFr": "<string>",
+        "typeDocumentPere": "<string>",
+        "CNIE_CS_Mere": "<string>",
+        "nomMere": "<string>",
+        "prenomMere": "<string>",
+        "nomMereFr": "<string>",
+        "prenomMereFr": "<string>",
+        "typeDocumentMere": "<string>"
+      },
+      {
+        "idcs": "<string>",
+        "naissance_ID": "<integer>",
+        "numActe": "<string>",
+        "nom": "<string>",
+        "prenom": "<string>",
+        "nomFr": "<string>",
+        "prenomFr": "<string>",
+        "dateNaissance": "<string>",
+        "sexe": "<string>",
+        "nationalite": "<string>",
+        "CNIE_CS_Pere": "<string>",
+        "nomPere": "<string>",
+        "prenomPere": "<string>",
+        "nomPereFr": "<string>",
+        "prenomPereFr": "<string>",
+        "typeDocumentPere": "<string>",
+        "CNIE_CS_Mere": "<string>",
+        "nomMere": "<string>",
+        "prenomMere": "<string>",
+        "nomMereFr": "<string>",
+        "prenomMereFr": "<string>",
+        "typeDocumentMere": "<string>"
+      }
+    ]
   }
-}
+]
