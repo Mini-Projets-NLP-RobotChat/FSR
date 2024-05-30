@@ -1,13 +1,13 @@
 {
   "GetDece":[
   {
-    "lot_ID": "<integer>",
-    "lot_NbrActes": "<integer>",
-    "lot_NbrRestant": "<integer>",
-    "id_transaction": "<integer>",
+    "lot_ID": 1999,
+    "lot_NbrActes": 1999,
+    "lot_NbrRestant": 1999,
+    "id_transaction": 1999,
     "lot_Deces": [
       {
-        "dece_ID": "<integer>",
+        "dece_ID": 1999,
         "cnie": "<string>",
         "nom": "<string>",
         "prenom": "<string>",
@@ -31,7 +31,7 @@
         "prenomMereFr": "<string>"
       },
       {
-        "dece_ID": "<integer>",
+        "dece_ID": 1999,
         "cnie": "<string>",
         "nom": "<string>",
         "prenom": "<string>",
@@ -55,7 +55,7 @@
         "prenomMereFr": "<string>"
       },
       {
-        "dece_ID": "<integer>",
+        "dece_ID": 1999,
         "cnie": "<string>",
         "nom": "<string>",
         "prenom": "<string>",
@@ -79,7 +79,7 @@
         "prenomMereFr": "<string>"
       },
       {
-        "dece_ID": "<integer>",
+        "dece_ID": 1999,
         "cnie": "<string>",
         "nom": "<string>",
         "prenom": "<string>",
@@ -103,7 +103,7 @@
         "prenomMereFr": "<string>"
       },
       {
-        "dece_ID": "<integer>",
+        "dece_ID": 1999,
         "cnie": "<string>",
         "nom": "<string>",
         "prenom": "<string>",
@@ -131,14 +131,14 @@
 ],
   "naissances": [
     {
-      "lot_ID": "<integer>",
-      "lot_NbrActes": "<integer>",
-      "lot_NbrRestant": "<integer>",
-      "id_transaction": "<integer>",
+      "lot_ID": 1999,
+      "lot_NbrActes": 1999,
+      "lot_NbrRestant": 1999,
+      "id_transaction": 1999,
       "lot_Naissance": [
         {
           "idcs": "<string>",
-          "naissance_ID": "<integer>",
+          "naissance_ID": 1999,
           "numActe": "<string>",
           "nom": "<string>",
           "prenom": "<string>",
@@ -162,7 +162,7 @@
         },
         {
           "idcs": "<string>",
-          "naissance_ID": "<integer>",
+          "naissance_ID": 1999,
           "numActe": "<string>",
           "nom": "<string>",
           "prenom": "<string>",
@@ -187,14 +187,14 @@
       ]
     },
     {
-      "lot_ID": "<integer>",
-      "lot_NbrActes": "<integer>",
-      "lot_NbrRestant": "<integer>",
-      "id_transaction": "<integer>",
+      "lot_ID": 1999,
+      "lot_NbrActes": 1999,
+      "lot_NbrRestant": 1999,
+      "id_transaction": 1999,
       "lot_Naissance": [
         {
           "idcs": "<string>",
-          "naissance_ID": "<integer>",
+          "naissance_ID": 1999,
           "numActe": "<string>",
           "nom": "<string>",
           "prenom": "<string>",
@@ -218,7 +218,7 @@
         },
         {
           "idcs": "<string>",
-          "naissance_ID": "<integer>",
+          "naissance_ID": 1999,
           "numActe": "<string>",
           "nom": "<string>",
           "prenom": "<string>",
