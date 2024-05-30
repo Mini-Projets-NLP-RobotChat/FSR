@@ -1,10 +1,10 @@
 {
   "GetDece":[
   {
-    "lot_ID": 1999,
-    "lot_NbrActes": 1999,
-    "lot_NbrRestant": 1999,
-    "id_transaction": 1999,
+    "lot_ID": 1,
+    "lot_NbrActes": 5,
+    "lot_NbrRestant": 2,
+    "id_transaction": 30052024111750179,
     "lot_Deces": [
       {
         "dece_ID": 1999,
