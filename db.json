@@ -185,60 +185,24 @@
         "prenomMereFr": "<string>"
       }
     ]
-  },
+  }
+],
+  "GetDeceAnnulation" : [
   {
-    "lot_ID": "2",
-    "lot_NbrActes": "5",
-    "lot_NbrRestant": "3",
-    "id_transaction": "256",
+    "lot_ID": 33,
+    "lot_NbrActes": 6,
+    "lot_NbrRestant": 2,
+    "id_transaction": 22222,
     "lot_Deces": [
       {
-        "dece_ID": 2000,
-        "cnie": "<string>",
-        "nom": "<string>",
-        "prenom": "<string>",
-        "nomFr": "<string>",
-        "prenomFr": "<string>",
-        "dateDece": "<string>",
-        "niu": "<string>",
-        "numEtatCivil": "<string>",
-        "dateNaissance": "<string>",
-        "adresse": "<string>",
-        "adresseFr": "<string>",
-        "cniE_Pere": "<string>",
-        "nomPere": "<string>",
-        "prenomPere": "<string>",
-        "nomPereFr": "<string>",
-        "prenomPereFr": "<string>",
-        "cniE_Mere": "<string>",
-        "nomMere": "<string>",
-        "prenomMere": "<string>",
-        "nomMereFr": "<string>",
-        "prenomMereFr": "<string>"
+        "dece_ID": 4000,
+        "iD_Lot_Ancien": "<integer>",
+        "cnie": "<string>"
       },
       {
-        "dece_ID": 2000,
-        "cnie": "<string>",
-        "nom": "<string>",
-        "prenom": "<string>",
-        "nomFr": "<string>",
-        "prenomFr": "<string>",
-        "dateDece": "<string>",
-        "niu": "<string>",
-        "numEtatCivil": "<string>",
-        "dateNaissance": "<string>",
-        "adresse": "<string>",
-        "adresseFr": "<string>",
-        "cniE_Pere": "<string>",
-        "nomPere": "<string>",
-        "prenomPere": "<string>",
-        "nomPereFr": "<string>",
-        "prenomPereFr": "<string>",
-        "cniE_Mere": "<string>",
-        "nomMere": "<string>",
-        "prenomMere": "<string>",
-        "nomMereFr": "<string>",
-        "prenomMereFr": "<string>"
+        "dece_ID": 5000,
+        "iD_Lot_Ancien": "<integer>",
+        "cnie": "<string>"
       }
     ]
   }
