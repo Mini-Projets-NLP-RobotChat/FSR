@@ -131,13 +131,13 @@
 ],
   "GetDeceMAJ": [
   {
-    "lot_ID": "<integer>",
-    "lot_NbrActes": "<integer>",
-    "lot_NbrRestant": "<integer>",
-    "id_transaction": "<integer>",
+    "lot_ID": 2,
+    "lot_NbrActes": 5,
+    "lot_NbrRestant": 3,
+    "id_transaction": 36254,
     "lot_Deces": [
       {
-        "dece_ID": "2000",
+        "dece_ID": 2000,
         "cnie": "<string>",
         "nom": "<string>",
         "prenom": "<string>",
@@ -161,7 +161,7 @@
         "prenomMereFr": "<string>"
       },
       {
-        "dece_ID": "2000",
+        "dece_ID": 2000,
         "cnie": "<string>",
         "nom": "<string>",
         "prenom": "<string>",
@@ -193,7 +193,7 @@
     "id_transaction": "256",
     "lot_Deces": [
       {
-        "dece_ID": "2000",
+        "dece_ID": 2000,
         "cnie": "<string>",
         "nom": "<string>",
         "prenom": "<string>",
@@ -217,7 +217,7 @@
         "prenomMereFr": "<string>"
       },
       {
-        "dece_ID": "2000",
+        "dece_ID": 2000,
         "cnie": "<string>",
         "nom": "<string>",
         "prenom": "<string>",
