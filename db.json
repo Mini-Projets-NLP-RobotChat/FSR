@@ -196,13 +196,13 @@
     "lot_Deces": [
       {
         "dece_ID": 4000,
-        "iD_Lot_Ancien": "<integer>",
-        "cnie": "<string>"
+        "iD_Lot_Ancien": 33,
+        "cnie": "dadaa"
       },
       {
         "dece_ID": 5000,
-        "iD_Lot_Ancien": "<integer>",
-        "cnie": "<string>"
+        "iD_Lot_Ancien": 33,
+        "cnie": "dazdaz"
       }
     ]
   }
